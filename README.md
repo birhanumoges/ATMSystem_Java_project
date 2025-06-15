@@ -95,12 +95,13 @@ javac ATMSystem.java
 ---
 
 ##✅ Conclusion
-This simple ATM System demonstrates basic Java Swing GUI, input validation, object serialization, and user interaction patterns. It's ideal for beginners learning GUI-based Java programming or for academic purposes.
+This simple ATM System demonstrates basic Java Swing GUI, input validation, object serialization, and user interaction patterns.
+It's ideal for beginners learning GUI-based Java programming or for academic purposes.
 
 ##🧠 Future Enhancements
- - PIN change option
- - Account deletion
- - Admin login for viewing all users
- - Database integration instead of local files
+- PIN change option
+- Account deletion
+- Admin login for viewing all users
+- Database integration instead of local files
 
 
