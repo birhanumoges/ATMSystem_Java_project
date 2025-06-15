@@ -15,7 +15,7 @@ A simple Java-based ATM system with a graphical user interface (GUI) built using
   - [ 💻 Technologies Used](#-technologies-used)
 - [🛠️ Requirements](#️-requirements)
 - [🏗️ Build & Run Instructions](#-build--run-instructions)
-- [📌 Conclusion](#-conclusion)
+- [✅ Conclusion](#-conclusion)
 - [🧠 Future Enhancements](#-Future-Enhancements)
 
 ---
@@ -94,11 +94,11 @@ javac ATMSystem.java
 
 ---
 
-##✅ Conclusion
+## ✅ Conclusion
 This simple ATM System demonstrates basic Java Swing GUI, input validation, object serialization, and user interaction patterns.
 It's ideal for beginners learning GUI-based Java programming or for academic purposes.
 
-##🧠 Future Enhancements
+## 🧠 Future Enhancements
 - PIN change option
 - Account deletion
 - Admin login for viewing all users
