@@ -8,25 +8,25 @@ A simple Java-based ATM system with a graphical user interface (GUI) built using
 
 - [📚 Description](#-description)
 - [💻 Features](#-features)
-- [🚀 How to Use](#-how-to-use)
+- [ How to Use](#-how-to-use)
   - [🔐 Login](#-login)
   - [🧾 Create Account](#-create-account)
   - [💰 ATM Operations](#-atm-operations)
+  - [ 💻 Technologies Used](#-technologies-used)
 - [🛠️ Requirements](#️-requirements)
 - [🏗️ Build & Run Instructions](#-build--run-instructions)
 - [📁 File Structure](#-file-structure)
-- [🧩 Technologies Used](#-technologies-used)
 - [📌 Conclusion](#-conclusion)
 
 ---
 
-## Description
+## 📚 Description
 
 📚This project simulates an ATM system with functionalities similar to real-world ATMs. The system uses a file-based storage mechanism (`accounts.dat`) to persist user accounts and balances. It ensures user-friendly interactivity, validation checks, and secure access via PIN.
 
 ---
 
-## Features
+## 💻 Features
 
 - Create a new account with automatic Account Number and PIN generation.
 - Login using only a **4-digit PIN**.
@@ -77,7 +77,7 @@ A simple Java-based ATM system with a graphical user interface (GUI) built using
 
 ---
 
-## Requirements
+## 🛠️ Requirements
 
 - Java Development Kit (JDK) 17 or higher (recommended)
 - A Java IDE (like IntelliJ, Eclipse, NetBeans) or terminal access
@@ -85,7 +85,7 @@ A simple Java-based ATM system with a graphical user interface (GUI) built using
 
 ---
 
-##Build & Run Instructions
+## 🏗️ Build & Run Instructions
 
 ### ✅ Compile
 
