@@ -1,34 +1,34 @@
-# 🏧 Java ATM System (Swing GUI)
+#  Java ATM System (Swing GUI)
 
 A simple Java-based ATM system with a graphical user interface (GUI) built using **Java Swing**. It allows users to create accounts, log in using a 4-digit PIN, and perform basic banking operations like deposit, withdrawal, and balance check.
 
 ---
 
-## 📚 Table of Contents
+##  Table of Contents
 
-- [📚 Description](#-description)
-- [💻 Features](#-features)
+- [ Description](#-description)
+- [ Features](#-features)
 - [ How to Use](#-how-to-use)
-  - [🔐 Login](#-login)
-  - [🧾 Create Account](#-create-account)
-  - [💰 ATM Operations](#-atm-operations)
-  - [ 💻 Technologies Used](#-technologies-used)
-- [🛠️ Requirements](#️-requirements)
-- [🏗️ Build & Run Instructions](#-build--run-instructions)
-- [✅ Conclusion](#-conclusion)
-- [🧠 Future Enhancements](#-Future-Enhancements)
+  - [ Login](#-login)
+  - [ Create Account](#-create-account)
+  - [ ATM Operations](#-atm-operations)
+  - [  Technologies Used](#-technologies-used)
+- [ Requirements](-requirements)
+- [ Build & Run Instructions](#-build--run-instructions)
+- [ Conclusion](#-conclusion)
+- [ Future Enhancements](#-Future-Enhancements)
 
 
 
 ---
 
-## 📚 Description
+##  Description
 
-📚This project simulates an ATM system with functionalities similar to real-world ATMs. The system uses a file-based storage mechanism (`accounts.dat`) to persist user accounts and balances. It ensures user-friendly interactivity, validation checks, and secure access via PIN.
+This project simulates an ATM system with functionalities similar to real-world ATMs. The system uses a file-based storage mechanism (`accounts.dat`) to persist user accounts and balances. It ensures user-friendly interactivity, validation checks, and secure access via PIN.
 
 ---
 
-## 💻 Features
+##  Features
 
 - Create a new account with automatic Account Number and PIN generation.
 - Login using only a **4-digit PIN**.
@@ -42,12 +42,12 @@ A simple Java-based ATM system with a graphical user interface (GUI) built using
 
 ## How to Use
 
-### 🔐 Login
+###  Login
 
 - Enter your 4-digit PIN to access your account.
 - Click **Login**.
 
-### 🧾 Create Account
+###  Create Account
 
 - Click **Create Account** on the login screen.
 - Enter:
@@ -58,18 +58,18 @@ A simple Java-based ATM system with a graphical user interface (GUI) built using
   - A secure **4-digit PIN**
 - Save your PIN for future logins.
 
-### 💰 ATM Operations
+###  ATM Operations
 
 - **View Balance**: Check your current balance.
 - **Deposit**: Add funds (amount must be positive).
 - **Withdraw**: Withdraw funds (minimum balance of 100 must remain).
 - **Logout**: Return to the login screen.
-- 💾 **Data Persistence:** Account details saved locally in `accounts.dat`.
-- 🧼 **Interactive GUI:** Built using Java Swing with clear, exit, and error handling.
+-  **Data Persistence:** Account details saved locally in `accounts.dat`.
+-  **Interactive GUI:** Built using Java Swing with clear, exit, and error handling.
 
 ---
 
-### 💻 Technologies Used
+###  Technologies Used
 
 | Tech        | Description                |
 |-------------|----------------------------|
@@ -79,7 +79,7 @@ A simple Java-based ATM system with a graphical user interface (GUI) built using
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 
 - Java Development Kit (JDK) 17 or higher (recommended)
 - A Java IDE (like IntelliJ, Eclipse, NetBeans) or terminal access
@@ -87,20 +87,20 @@ A simple Java-based ATM system with a graphical user interface (GUI) built using
 
 ---
 
-## 🏗️ Build & Run Instructions
+##  Build & Run Instructions
 
-### ✅ Compile
+###  Compile
 
 ```bash
 javac ATMSystem.java
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 This simple ATM System demonstrates basic Java Swing GUI, input validation, object serialization, and user interaction patterns.
 It's ideal for beginners learning GUI-based Java programming or for academic purposes.
 
-## 🧠 Future Enhancements
+##  Future Enhancements
 - PIN change option
 - Account deletion
 - Admin login for viewing all users
